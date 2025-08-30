@@ -48,7 +48,7 @@ Communication • Time Management
 - **LinkedIn:** (https://linkedin.com/in/riteshkushwaha01)  
 - **Twitter:** (https://twitter.com/riteshkushwaha01)  
 - **GitHub:** (https://github.com/RiteshKushwaha01)
-- **LeetCode** (https://leetcode.com/Ritesh_kushwaha01)
+- **LeetCode:** (https://leetcode.com/Ritesh_kushwaha01)
 
 ----------
 
